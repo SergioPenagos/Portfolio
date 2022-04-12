@@ -18,11 +18,11 @@ const About = () => {
           </div>
           <div>
             <p>
-              I'm passionate to create insightfull data analysis that imrpove
+            I'm passionate to create insightful data analyses that improve
               understanding of any data set. I specialize in creating beautiful
               data visualizations that allow any individual to extract
-              insightfull information that will allow to a deeper understanding
-              of the desired data. 
+              perceptive information that will allow for a deeper understanding
+              of the desired features. 
             </p>
           </div>
         </div>
